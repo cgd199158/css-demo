@@ -1,0 +1,13 @@
+.top{
+width: 100%;
+height: 70px;
+}
+
+.bottom{
+background-color: #cc85d9;
+width: 100%;
+position: absolute;
+top: 70px;
+bottom: 0px;
+left: 0px;
+}
